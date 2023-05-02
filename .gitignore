@@ -53,3 +53,6 @@ yarn-error.log
 .expo/
 web-build/
 dist/
+
+/src/services/api.js
+/src/assets/logo.png
