@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "coletor",
+    "slug": "coletor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
